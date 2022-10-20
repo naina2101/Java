@@ -3,6 +3,7 @@ public class BitManipulationQ1 {
     
     public static void main(String[] args){
 
+        //To find if a number is a power of 2.
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int result;

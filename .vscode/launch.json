@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BitManipulationQ3",
+            "request": "launch",
+            "mainClass": "BitManipulationQ3",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitManipulationGet",
+            "request": "launch",
+            "mainClass": "BitManipulationGet",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitManipulationQ2",
+            "request": "launch",
+            "mainClass": "BitManipulationQ2",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
             "name": "Launch BitManipulationQ1",
             "request": "launch",
             "mainClass": "BitManipulationQ1",

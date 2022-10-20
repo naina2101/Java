@@ -1,11 +1,11 @@
 public class BitManipulationGet {
     public static void main(String[] args){
-        int n=5, pos=3;
+        int n=10, pos=2;
         int bitMask = 1<<pos;
 
         if( (bitMask & n) == 0)
            System.out.println("Bit was zero");
         else 
-            System.out.println("Bit was one.");
+            System.out.println("Bit was one."); 
     }
 }

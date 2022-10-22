@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch recursiveKeypad",
+            "request": "launch",
+            "mainClass": "recursiveKeypad",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionUniqueSub",
+            "request": "launch",
+            "mainClass": "recursionUniqueSub",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionSubsequences",
+            "request": "launch",
+            "mainClass": "recursionSubsequences",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion2",
+            "request": "launch",
+            "mainClass": "Recursion2",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionRemDup",
+            "request": "launch",
+            "mainClass": "recursionRemDup",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionMoveElem",
+            "request": "launch",
+            "mainClass": "recursionMoveElem",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionCheckArrSort",
+            "request": "launch",
+            "mainClass": "recursionCheckArrSort",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionFindElement",
+            "request": "launch",
+            "mainClass": "recursionFindElement",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionStrRev",
+            "request": "launch",
+            "mainClass": "recursionStrRev",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionxpnLog",
+            "request": "launch",
+            "mainClass": "recursionxpnLog",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionxpn",
+            "request": "launch",
+            "mainClass": "recursionxpn",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch resursiveFibonacciSeries",
+            "request": "launch",
+            "mainClass": "resursiveFibonacciSeries",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursiveFactorial",
+            "request": "launch",
+            "mainClass": "recursiveFactorial",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortingInsertion",
+            "request": "launch",
+            "mainClass": "sortingInsertion",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortingSelection",
+            "request": "launch",
+            "mainClass": "sortingSelection",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitManipulationQ4",
+            "request": "launch",
+            "mainClass": "BitManipulationQ4",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
             "name": "Launch BitManipulationQ3",
             "request": "launch",
             "mainClass": "BitManipulationQ3",

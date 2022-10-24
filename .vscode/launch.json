@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch backtracking",
+            "request": "launch",
+            "mainClass": "backtracking",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionPrintSubsets",
+            "request": "launch",
+            "mainClass": "recursionPrintSubsets",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionSingleOrPairs",
+            "request": "launch",
+            "mainClass": "recursionSingleOrPairs",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionPlaceTiles",
+            "request": "launch",
+            "mainClass": "recursionPlaceTiles",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionTotalPaths",
+            "request": "launch",
+            "mainClass": "recursionTotalPaths",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionPerm",
+            "request": "launch",
+            "mainClass": "recursionPerm",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursionTowerHanoi",
+            "request": "launch",
+            "mainClass": "recursionTowerHanoi",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
             "name": "Launch recursiveKeypad",
             "request": "launch",
             "mainClass": "recursiveKeypad",

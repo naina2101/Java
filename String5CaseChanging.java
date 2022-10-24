@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class UpperLower {
+public class String5CaseChanging {
 // Java Program to demonstrate
 // Conversion of String from lowercase
 // to uppercase without using

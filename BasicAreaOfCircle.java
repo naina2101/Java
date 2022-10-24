@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AreaOfCircle 
+public class BasicAreaOfCircle 
 {
     public static void main(String[] args)
     {

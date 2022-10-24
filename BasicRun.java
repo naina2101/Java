@@ -1,6 +1,6 @@
 
 
-    public class Run {
+    public class BasicRun {
     
         public static void clearScreen() {  
     

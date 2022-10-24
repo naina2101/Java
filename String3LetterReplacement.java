@@ -1,5 +1,5 @@
 import java.util.*;
-public class LetterReplacement {
+public class String3LetterReplacement {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();

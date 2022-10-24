@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SumOf_n {
+public class Loop1SumOfn {
 
     public static void clearScreen() {  
 

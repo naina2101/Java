@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Calculator {
+public class BasicPlusCalculator {
 
     public static void clearScreen() {  
 

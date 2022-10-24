@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Marks {
+public class BasicOutputMarks {
 
     public static void clearScreen() {  
 

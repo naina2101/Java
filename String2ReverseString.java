@@ -1,5 +1,5 @@
 
-public class Strings {
+public class String2ReverseString {
    public static void main(String args[]) {
      StringBuilder sb = new StringBuilder("HelloWorld");
     

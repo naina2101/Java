@@ -1,7 +1,7 @@
 
     import java.util.*;
 
-    public class PrimeOrNot {
+    public class BasicPrimeOrNot {
     
         public static void clearScreen() {  
     

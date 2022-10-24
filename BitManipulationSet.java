@@ -1,4 +1,4 @@
-public class BitManipukationSet {
+public class BitManipulationSet {
 
     public static void main(String[] args){
         int n=5, pos=1;

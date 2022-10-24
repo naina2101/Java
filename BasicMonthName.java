@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class MonthName {
+public class BasicMonthName {
 
     public static void clearScreen() {  
 

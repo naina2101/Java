@@ -1,5 +1,5 @@
 import java.util.*;
-public class SpiralOrder2dArray {
+public class IIdArraySpiralOrder {
 
     public static void main(String[] args){
         

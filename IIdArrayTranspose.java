@@ -1,5 +1,5 @@
 import java.util.*;
-public class Transpose2dArray {
+public class IIdArrayTranspose {
 
     public static void main(String[] args){
         

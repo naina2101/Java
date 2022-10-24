@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TakeInputAndPrint {
+public class BasicInputOutput {
     public static void main(String[] args)
     {
         Scanner a = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AdvPattern5  {
+public class PatternAdv5  {
 public static void main(String[] args){
         //inverted pyramid
         Scanner sc = new Scanner(System.in);

@@ -1,7 +1,7 @@
 
     import java.util.*;
 
-    public class EvenNoPrint {
+    public class BasicEvenPrint {
     
         public static void clearScreen() {  
     

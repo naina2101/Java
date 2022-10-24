@@ -1,6 +1,6 @@
     import java.util.*;
 
-    public class TableProgram {
+    public class Loop1TableProgram {
     
         public static void clearScreen() {  
     

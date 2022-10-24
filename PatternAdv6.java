@@ -1,4 +1,4 @@
-public class AdvPattern6{
+public class PatternAdv6{
 public static void main(String[] args){
 
         /* Hollow Rhombus.

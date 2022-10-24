@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AdvPattern1  {
+public class PatternAdv1  {
 
     public static void clearScreen() {  
        System.out.print("\033[H\033[2J");  

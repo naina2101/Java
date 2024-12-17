@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ShortestRouteWithMagic",
+            "request": "launch",
+            "mainClass": "ShortestRouteWithMagic",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "temp",
+            "request": "launch",
+            "mainClass": "temp",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "ElectricityBillingSystem",
+            "request": "launch",
+            "mainClass": "ElectricityBillingSystem",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "StackReverse",
+            "request": "launch",
+            "mainClass": "StackReverse",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch exam_aj",
+            "request": "launch",
+            "mainClass": "exam_aj",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch exam_ajuby",
+            "request": "launch",
+            "mainClass": "exam_ajuby",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch BasicPrimeOrNot",
+            "request": "launch",
+            "mainClass": "BasicPrimeOrNot",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch exam",
+            "request": "launch",
+            "mainClass": "exam",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch String3LetterReplacement",
+            "request": "launch",
+            "mainClass": "String3LetterReplacement",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListLL",
+            "request": "launch",
+            "mainClass": "LinkedListLL",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortQuick",
+            "request": "launch",
+            "mainClass": "sortQuick",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortMerge",
+            "request": "launch",
+            "mainClass": "sortMerge",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
             "name": "Launch backtracking",
             "request": "launch",
             "mainClass": "backtracking",

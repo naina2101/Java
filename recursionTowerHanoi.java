@@ -10,6 +10,6 @@ public class recursionTowerHanoi {
         TowHanoi(n-1, helper, src, dest);
     }
     public static void main(String[] args) {
-        TowHanoi(5, "S", "H", "D");
+        TowHanoi(9, "S", "H", "D");
     }
 }

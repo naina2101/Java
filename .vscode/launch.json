@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryTreeSumOfNodesatKthLevel",
+            "request": "launch",
+            "mainClass": "BinaryTreeSumOfNodesatKthLevel",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
             "name": "ShortestRouteWithMagic",
             "request": "launch",
             "mainClass": "ShortestRouteWithMagic",

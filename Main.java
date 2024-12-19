@@ -8,7 +8,8 @@ public class Main {
         long S = scanner.nextLong();
         long N = scanner.nextLong();
         long M = scanner.nextLong();
-
+        
+		scanner.close();
         // Encrypt the code using the given formula and key values
         long encryptedCode = encryptCode(S, N, M);
 

@@ -9,6 +9,8 @@ public class exam_ajuby {
         for (int i = 0; i < n; i++) {
             transformedArray[i] = sc.nextInt();
         }
+        
+		sc.close();
         Arrays.sort(transformedArray);
         Set<Integer> originalSet = new HashSet<>();
         for (int i = 0; i < n; i++) {

@@ -8,7 +8,8 @@ public class exam_aj {
         for (int i = 0; i < n; i++) {
             transformedArray[i] = sc.nextInt();
         }
-
+        
+		sc.close();
         // sort the transformed array in ascending order
         Arrays.sort(transformedArray);
 
@@ -49,5 +50,6 @@ public class exam_aj {
         for (int num : originalList) {
             System.out.print(num + " ");
         }
+        
     }
 }

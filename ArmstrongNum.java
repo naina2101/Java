@@ -7,6 +7,7 @@ public class ArmstrongNum {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		System.out.println(ArmN(n));
+		sc.close();
 	}
 
 	public static boolean ArmN(int n){

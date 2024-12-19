@@ -19,7 +19,10 @@ public class ShortestRouteWithMagic {
         int cityB = scanner.nextInt();
         int numMagic = scanner.nextInt();
         int numRoads = scanner.nextInt();
-        int roadProp = scanner.nextInt();
+        //int roadProp = scanner.nextInt();
+
+        
+		scanner.close();
 
         // Create adjacency list representation of the graph
         List<List<Edge>> graph = new ArrayList<>();

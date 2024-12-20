@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class BinaryTreeSumOfNodesatKthLevel {
+public class BinaryTreeF {
     static class Node{
         int data;
         Node left;

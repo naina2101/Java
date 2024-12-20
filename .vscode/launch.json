@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryTreeOps",
+            "request": "launch",
+            "mainClass": "BinaryTreeOps",
+            "projectName": "Java_be45746d"
+        },
+        {
+            "type": "java",
             "name": "BinaryTreeSumOfNodesatKthLevel",
             "request": "launch",
             "mainClass": "BinaryTreeSumOfNodesatKthLevel",

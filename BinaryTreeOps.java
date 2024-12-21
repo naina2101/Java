@@ -106,18 +106,18 @@ public class BinaryTreeOps {
             return isIdentical(root.left, subRoot) || isIdentical(root.right, subRoot);
         return false;
     }
-    public static boolean isSubtree(Node root, Node subRoot){
-        if(subRoot == null)
-            return true;
-        if(root == null)
-            return false;
-        if(root.data == subRoot.data){
-            if(isIdentical(root,subRoot))
-                return true;
+    // public static boolean isSubtree(Node root, Node subRoot){
+    //     if(subRoot == null)
+    //         return true;
+    //     if(root == null)
+    //         return false;
+    //     if(root.data == subRoot.data){
+    //         if(isIdentical(root,subRoot))
+    //             return true;
         
-        return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
-        }
-    }
+    //     return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
+    //     }
+    // }
     public static void main(String[] args) {
         int[] Node = {1, 2, 4, -1, -1, 5, -1, -1, 3, -1, 6, -1, -1};
         BinaryTree tree = new BinaryTree();
@@ -128,6 +128,7 @@ public class BinaryTreeOps {
         System.out.println("Diameter of tree: "+ diameter2(root).diam);
         int[] SubtreeNodes = {2, 4, -1, -1, 5, -1, -1};
         Node subRoot = tree.buildTree(SubtreeNodes);
-        System.out.println(isSubtree(root, subRoot));
+        //System.out.println(isSubtree(root, subRoot));
+        System.out.println("count of nodes: " + countOfNodes(subRoot));
     }
 }
